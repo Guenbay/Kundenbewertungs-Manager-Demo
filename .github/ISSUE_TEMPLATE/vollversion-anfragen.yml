@@ -1,0 +1,29 @@
+name: Vollversion anfragen
+description: Interesse am Kundenbewertungs-Manager (Vollversion mit KI und Login)
+title: "Anfrage Vollversion: "
+labels: ["lead"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für dein Interesse! Kurz ausfüllen, ich melde mich zeitnah bei dir.
+  - type: input
+    id: unternehmen
+    attributes:
+      label: Unternehmen / Branche
+      placeholder: z. B. Zahnarztpraxis Dr. Weber
+    validations:
+      required: true
+  - type: input
+    id: kontakt
+    attributes:
+      label: Wie erreiche ich dich? (E-Mail oder Telefon)
+    validations:
+      required: true
+  - type: textarea
+    id: nachricht
+    attributes:
+      label: Nachricht (optional)
+      placeholder: Fragen, gewünschter Starttermin, Anzahl Standorte …
+    validations:
+      required: false
