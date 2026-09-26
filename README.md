@@ -23,8 +23,8 @@ Diese Demo zeigt, wie der Kundenbewertungs-Manager dabei hilft:
 > eigenem Login. Die automatische Anbindung an Google (Bewertungen abrufen und Antworten direkt
 > veröffentlichen) ist in Vorbereitung.
 >
-> 👉 **Interesse an der Vollversion?** [Formular öffnen](https://github.com/Guenbay/Kundenbewertungs-Manager-Demo/issues/new?template=vollversion-anfragen.yml)
-> (kurzes GitHub-Formular, keine Anmeldung nötig – oder direkt über den Button in der Demo).
+> 👉 **Interesse an der Vollversion?** [Pakete ansehen und registrieren](https://kundenbewertungs-manager.vercel.app/#preise)
+> (oder direkt über den Button in der Demo).
 
 ![Übersicht: Dashboard mit Bewertungen, Kennzahlen und Beispiel-KI-Antwort](./docs/uebersicht.png)
 
@@ -64,14 +64,14 @@ Browsers gespeichert. Es gibt keinen Server, keine Datenbank, kein Tracking.
 
 ## Anpassen
 
-Den Link hinter „Vollversion anfragen“ kannst du über eine Datei `.env.local` ändern
+Den Link hinter „Zur Vollversion“ kannst du über eine Datei `.env.local` ändern
 (Vorlage: [.env.example](./.env.example)).
 
 ## Weiterführende Links
 
 - 📖 [Node.js herunterladen](https://nodejs.org/de) (Voraussetzung für die lokale Nutzung)
-- 💬 [Vollversion anfragen](https://github.com/Guenbay/Kundenbewertungs-Manager-Demo/issues/new?template=vollversion-anfragen.yml) (GitHub-Formular)
-- 🐞 [Fehler melden / Frage stellen](https://github.com/Guenbay/Kundenbewertungs-Manager-Demo/issues/new/choose)
+- 💬 [Zur Vollversion – Pakete & Registrierung](https://kundenbewertungs-manager.vercel.app/#preise)
+- 🐞 [Fehler melden / Frage stellen](https://github.com/Guenbay/Kundenbewertungs-Manager-Demo/issues/new)
 - 📄 [Lizenz (MIT)](./LICENSE)
 
 ## Technik

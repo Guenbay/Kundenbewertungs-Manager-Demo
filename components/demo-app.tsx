@@ -56,7 +56,7 @@ export function DemoApp() {
           </span>
           <Button asChild size="sm" variant="secondary">
             <a href={contactHref()} target="_blank" rel="noreferrer">
-              Vollversion anfragen
+              Zur Vollversion
               <ExternalLink />
             </a>
           </Button>
@@ -178,7 +178,7 @@ function UpgradeCard() {
         </ul>
         <Button asChild className="w-fit">
           <a href={contactHref()} target="_blank" rel="noreferrer">
-            Vollversion anfragen
+            Zur Vollversion
             <ExternalLink />
           </a>
         </Button>

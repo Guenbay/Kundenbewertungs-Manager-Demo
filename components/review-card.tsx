@@ -213,7 +213,7 @@ function AppealPanel({ review }: { review: Review }) {
         )}
         <Button size="sm" variant="ghost" asChild>
           <a href={contactHref()} target="_blank" rel="noreferrer">
-            Vollversion anfragen
+            Zur Vollversion
           </a>
         </Button>
         <Button size="sm" variant="ghost" onClick={() => setOpen(false)}>
