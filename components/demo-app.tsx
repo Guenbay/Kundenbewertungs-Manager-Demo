@@ -155,7 +155,7 @@ function UpgradeCard() {
     "Deeskalierende Antworten auf Kritik – nie defensiv, immer mit Lösungsangebot",
     "KI-Prüfung bei Fake-Verdacht inkl. passender Google-Richtlinie",
     "Berufsgeheimnis-Regeln für Arztpraxen & Heilberufe eingebaut",
-    "Online von überall, mit Login – Daten sicher in der EU",
+    "Online von überall nutzbar, mit eigenem Login",
     "In Vorbereitung: Bewertungen automatisch aus Google abrufen und direkt veröffentlichen",
   ];
   return (
